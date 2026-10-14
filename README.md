@@ -300,6 +300,7 @@ Tools for executing commands or interacting with local environments safely.
 | [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) | Run commands and scripts via MCP. |
 | [Harsh-2002/SSH-MCP](https://github.com/Harsh-2002/SSH-MCP) | Remote SSH/SFTP with 43 tools: Docker, monitoring, databases, file ops, VoIP diagnostics, jump host support. |
 | [AICommander-dev/aicommander](https://github.com/AICommander-dev/aicommander) | Remote-machine harness for AI agents — outbound-only shell, detached jobs, file transfer over MCP/HTTP on servers you own ([aicommander.dev](https://aicommander.dev)). Works **with** Cursor, Cline, Continue, Claude Code, Codex, ChatGPT, Aider, and more — not a replacement. |
+| [onlsol/relay.remotify.run](https://github.com/onlsol/relay.remotify.run) | Local stdio MCP for running shell commands on remote machines through an HTTP relay, with supervised per-command approval or unattended mode. Remote machines need only curl and bash; no SSH port or installed agent. |
 | [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) | Shell command execution server. |
 | [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) | iTerm integration for macOS. |
 | [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) | Terminal server for DeepSeek. |
